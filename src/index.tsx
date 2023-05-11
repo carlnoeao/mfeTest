@@ -6,9 +6,5 @@ const root = ReactDOM.createRoot(document.getElementById('TEMPLATE'));
 root.render(
   <React.StrictMode>
     <App />
-    {test}
   </React.StrictMode>
 );
-
-
-const test = <p>test</p>;
