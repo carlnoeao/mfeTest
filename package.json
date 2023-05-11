@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "shared": "file:../shared"
+    "@ao/shared": "*"
   },
   "scripts": {
     "start": "webpack serve --open",
